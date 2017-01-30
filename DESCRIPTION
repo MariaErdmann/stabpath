@@ -1,9 +1,12 @@
 Package: stabpath
-Title: What the Package Does (one line, title case)
+Title: Stability selection
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Fabian", "Scheipl", email = "fabian.scheipl@stat.uni-muenchen.de", role = c("aut", "cre"))
+Description: Calculates and plots stability paths from refits of a model object on resampled or
+subsampled data.
 Depends: R (>= 3.2.5)
-License: What license is it under?
+License: CC BY-NC-SA 4.0
+URL: https://github.com/fabian-s/stabpath
 Encoding: UTF-8
 LazyData: true
+
